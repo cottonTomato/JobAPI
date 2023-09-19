@@ -1,8 +1,8 @@
 {
-    "name": "template",
+    "name": "job-api",
     "version": "1.0.0",
-    "description": "",
-    "main": "dist/app.js",
+    "description": "A Simple Crud API",
+    "main": "src/app.js",
     "type": "commonjs",
     "scripts": {
         "start": "tsc && node dist/app.js",
@@ -12,7 +12,7 @@
         "format": "prettier --write ."
     },
     "keywords": [],
-    "author": "",
+    "author": "lanceHoenhymm",
     "license": "ISC",
     "devDependencies": {
         "@types/cors": "^2.8.14",
